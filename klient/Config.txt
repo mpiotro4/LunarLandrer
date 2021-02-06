@@ -1,0 +1,9 @@
+CanvasSizeX=800
+CanvasSizeY=600
+properVx=2
+properVy=7
+fuelAmount=100
+numberOfLevels=3
+numberOfLives=5
+bonusPerLife=50
+maxVy=10

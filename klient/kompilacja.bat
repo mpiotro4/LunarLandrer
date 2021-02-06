@@ -1,0 +1,1 @@
+javac -encoding UTF8 com\company\Client.java com\company\Level.java com\company\Main.java com\company\MainFrame.java com\company\MyKeyListener.java com\company\PropertiesLoader.java com\company\Ranking.java com\company\RankingMenu.java com\company\EndGameMenu.java com\company\ConnectionMenu.java

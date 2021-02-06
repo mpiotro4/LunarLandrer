@@ -1,0 +1,20 @@
+param1=800
+param2=600
+param3=1
+param4=5
+param5=100
+param6=2
+param7=5
+param8=50
+param9=10
+port=50000
+#Legend:
+#param1 -> CanvasSizeX
+#param2 -> CanvasSizeY
+#param3 -> properVx
+#param4 -> properVy
+#param5 -> fuelAmount
+#param6 -> numberOfLevels
+#param7 -> numberOfLives
+#param8 -> bonusPerLife
+#param9 -> maxVy

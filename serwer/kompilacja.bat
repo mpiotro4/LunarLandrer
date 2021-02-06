@@ -1,0 +1,1 @@
+javac -encoding UTF8 com\company\Server.java com\company\Main.java com\company\ServerCommands.java com\company\ServerThread.java com\company\PropertiesLoader.java com\company\Ranking.java

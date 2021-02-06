@@ -1,0 +1,11 @@
+#Sun Feb 02 23:57:48 CET 2020
+nick2=Aga
+nick1=Mikolaj
+score2=1032
+score3=998
+score4=838
+score5=784
+score1=1268
+nick5=Marcin
+nick4=Magda
+nick3=Piotr

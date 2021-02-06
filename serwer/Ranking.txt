@@ -1,0 +1,11 @@
+#Sun Feb 02 19:56:57 CET 2020
+nick2=Twoje imi\u0119
+nick1=Marcin
+score2=642
+score3=640
+score4=626
+score5=572
+score1=732
+nick5=Twoje imi\u0119
+nick4=Marcin
+nick3=Twoje imi\u0119
